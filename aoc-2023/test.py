@@ -1,12 +1,3 @@
-bool_list1 = [True]
+list = [1, 2, 3, 4, 5]
 
-bool_list1.append(True)
-bool_list1.append(True)
-
-bool_list2 = [False]
-
-bool_list2.append(True)
-bool_list2.append(True)
-
-print(bool_list1)
-print(bool_list2)
+print(max(list))
